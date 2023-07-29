@@ -16,4 +16,4 @@
 
 | New background in installer
 
-| Have fun!
+
